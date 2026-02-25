@@ -8,12 +8,3 @@
 </div>
 
 <h3 align="center">Game Developer / Artist</h3><br>
-
-<h3 align="center">👩‍💻 About Me</h3>
-
-<p align="center">🔭 I’m a Godot & Unity game developer<br>📚 I'm currently learning Unreal engine, C++<br>⚡ I create personal projects, make digital art, and play video games</p><br><br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dragmatik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  /><br>
-  <img src="https://streak-stats.demolab.com?user=Dragmatik&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
